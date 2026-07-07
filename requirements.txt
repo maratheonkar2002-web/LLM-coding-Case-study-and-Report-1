@@ -1,0 +1,3 @@
+pdfplumber>=0.11
+plotly>=5.20
+ollama>=0.2      # optional - only needed to use real local LLMs instead of the fallback
